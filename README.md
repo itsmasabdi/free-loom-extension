@@ -3,7 +3,9 @@
 An intuitive Chrome extension that provides a draggable webcam feed on your browser, similar to Loom, but with a twist. Easily start, stop, and move your video feed around your browser window.
 Here's how it looks:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6QJoCAxWe4?si=YfzmGcfM_PoyCi21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Build your custom AI model using contentable.ai](thumbnail.jpg)](https://www.youtube.com/watch?v=M6QJoCAxWe4)
+
 
 ## Features
 
