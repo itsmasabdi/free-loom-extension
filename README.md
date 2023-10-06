@@ -1,4 +1,4 @@
-# Not Free Loom-like Alternative
+# Free Loom-like Alternative
 
 An intuitive Chrome extension that provides a draggable webcam feed on your browser, similar to Loom, but with a twist. Easily start, stop, and move your video feed around your browser window.
 
